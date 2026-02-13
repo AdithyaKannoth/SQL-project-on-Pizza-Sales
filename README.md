@@ -33,27 +33,27 @@ Columns: pizza_type_id, name, category, ingredients<br>
 
 ### Analysis Performed:
 ##### Basic Analysis
-Total number of orders placed
-Total revenue generated
-Highest-priced pizza
-Most common pizza size ordered
+Total number of orders placed<br>
+Total revenue generated<br>
+Highest priced pizza<br>
+Most common pizza size ordered<br>
 Top 5 most ordered pizza types
 
 ##### Intermediate Analysis
-Total quantity ordered per pizza category
-Distribution of orders by hour
-Category-wise pizza distribution
-Average pizzas ordered per day
+Total quantity ordered per pizza category<br>
+Distribution of orders by hour<br>
+Category wise pizza distribution<br>
+Average pizzas ordered per day<br>
 Top 3 pizzas based on revenue
 
 ##### Advanced Analysis
-Percentage revenue contribution of each pizza type
-Cumulative revenue over time
-Top 3 revenue-generating pizzas per category
+Percentage revenue contribution of each pizza type<br>
+Cumulative revenue over time<br>
+Top 3 revenue generating pizzas per category
 
 ### Key Insights
 
-Identified peak order hours and daily trends
-Determined most popular pizza sizes and categories
-Analyzed revenue contribution of different pizza types
-Extracted top-performing products based on revenue
+Identified peak order hours and daily trends<br>
+Determined most popular pizza sizes and categories<br>
+Analyzed revenue contribution of different pizza types<br>
+Extracted top performing products based on revenue<br>
