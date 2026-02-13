@@ -18,7 +18,7 @@ Columns: order_id, order_date, order_time<br>
 ##### 2️.order_details.csv<br>
 Contains item level details for each order<br>
 Columns: order_details_id, order_id, pizza_id, quantity<br>
-br>
+
 
 ##### 3️.pizzas.csv<br>
 Contains pizza size and pricing information<br>
