@@ -9,7 +9,7 @@ The objective of this project is to demonstrate strong SQL skills including data
 
 ## Dataset Description
 
-The project uses four relational datasets:<br>
+### The project uses four relational datasets:<br>
 1️.orders.csv<br>
 Contains order-level information<br>
 Columns: order_id, order_date, order_time<br>
