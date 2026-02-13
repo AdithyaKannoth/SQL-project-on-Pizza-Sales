@@ -7,25 +7,25 @@ The objective of this project is to demonstrate strong SQL skills including data
 
 
 
-##Dataset Description
+## Dataset Description
 
-The project uses four relational datasets:
-1️.orders.csv
-Contains order-level information
-Columns: order_id, order_date, order_time
-Used to analyze total orders and time-based trends
+The project uses four relational datasets:<br>
+1️.orders.csv<br>
+Contains order-level information<br>
+Columns: order_id, order_date, order_time<br>
+Used to analyze total orders and time-based trends<br><br>
 
-2️.order_details.csv
-Contains item-level details for each order
-Columns: order_details_id, order_id, pizza_id, quantity
-Used to calculate total pizzas sold and link orders with products
+2️.order_details.csv<br>
+Contains item-level details for each order<br>
+Columns: order_details_id, order_id, pizza_id, quantity<br>
+Used to calculate total pizzas sold and link orders with products<br><br>
 
-3️.pizzas.csv
-Contains pizza size and pricing information
-Columns: pizza_id, pizza_type_id, size, price
-Used for revenue calculations and size-based analysis
+3️.pizzas.csv<br>
+Contains pizza size and pricing information<br>
+Columns: pizza_id, pizza_type_id, size, price<br>
+Used for revenue calculations and size-based analysis<br><br>
 
-4️. pizza_types.csv
-Contains pizza category and ingredient details
-Columns: pizza_type_id, name, category, ingredients
-Used for category-level and type-level analysis
+4️. pizza_types.csv<br>
+Contains pizza category and ingredient details<br>
+Columns: pizza_type_id, name, category, ingredients<br>
+Used for category-level and type-level analysis<br><br>
