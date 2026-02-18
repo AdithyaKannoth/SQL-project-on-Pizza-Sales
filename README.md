@@ -9,7 +9,7 @@ The objective of this project is to demonstrate strong SQL skills including data
 
 ## Dataset Description
 The dataset used in this project is publicly available and commonly used for SQL practice and data analysis projects.<br>
-Dataset Name: Pizza Sales Dataset
+Dataset Name: Pizza Sales Dataset<br>
 Source: Kaggle<br>
 
 ### The project uses four relational datasets:<br>
